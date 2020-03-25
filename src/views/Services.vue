@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="services">
     <h1>{{ message }}</h1>
     <h2>Concrete Landscape Services can provide it all.</h2>
   </div>

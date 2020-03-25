@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>{{ message }}</h1>
+    <h2>Concrete Landscape Services can provide it all.</h2>
   </div>
 </template>
 
@@ -11,7 +12,7 @@
 export default {
   data: function() {
     return {
-      message: "Welcome to Vue.js!"
+      message: "Welcome to Concrete Landscape Services!"
     };
   },
   created: function() {},
