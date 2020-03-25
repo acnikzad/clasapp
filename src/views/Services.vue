@@ -1,7 +1,7 @@
 <template>
   <div class="services">
     <h1>{{ message }}</h1>
-    <h2>Concrete Landscape Services can provide it all.</h2>
+    <h2>These are our services</h2>
   </div>
 </template>
 
